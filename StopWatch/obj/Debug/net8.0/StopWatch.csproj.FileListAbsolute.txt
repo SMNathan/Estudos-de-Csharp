@@ -1,0 +1,15 @@
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\StopWatch\bin\Debug\net8.0\StopWatch.exe
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\StopWatch\bin\Debug\net8.0\StopWatch.deps.json
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\StopWatch\bin\Debug\net8.0\StopWatch.runtimeconfig.json
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\StopWatch\bin\Debug\net8.0\StopWatch.dll
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\StopWatch\bin\Debug\net8.0\StopWatch.pdb
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\StopWatch\obj\Debug\net8.0\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\StopWatch\obj\Debug\net8.0\StopWatch.AssemblyInfoInputs.cache
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\StopWatch\obj\Debug\net8.0\StopWatch.AssemblyInfo.cs
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\StopWatch\obj\Debug\net8.0\StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\StopWatch\obj\Debug\net8.0\StopWatch.sourcelink.json
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\StopWatch\obj\Debug\net8.0\StopWatch.dll
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\StopWatch\obj\Debug\net8.0\refint\StopWatch.dll
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\StopWatch\obj\Debug\net8.0\StopWatch.pdb
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\StopWatch\obj\Debug\net8.0\StopWatch.genruntimeconfig.cache
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\StopWatch\obj\Debug\net8.0\ref\StopWatch.dll
