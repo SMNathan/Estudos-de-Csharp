@@ -1,0 +1,15 @@
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\AlgoritmosCs\bin\Debug\net8.0\AlgoritmosCs.exe
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\AlgoritmosCs\bin\Debug\net8.0\AlgoritmosCs.deps.json
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\AlgoritmosCs\bin\Debug\net8.0\AlgoritmosCs.runtimeconfig.json
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\AlgoritmosCs\bin\Debug\net8.0\AlgoritmosCs.dll
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\AlgoritmosCs\bin\Debug\net8.0\AlgoritmosCs.pdb
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\AlgoritmosCs\obj\Debug\net8.0\AlgoritmosCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\AlgoritmosCs\obj\Debug\net8.0\AlgoritmosCs.AssemblyInfoInputs.cache
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\AlgoritmosCs\obj\Debug\net8.0\AlgoritmosCs.AssemblyInfo.cs
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\AlgoritmosCs\obj\Debug\net8.0\AlgoritmosCs.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\AlgoritmosCs\obj\Debug\net8.0\AlgoritmosCs.sourcelink.json
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\AlgoritmosCs\obj\Debug\net8.0\AlgoritmosCs.dll
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\AlgoritmosCs\obj\Debug\net8.0\refint\AlgoritmosCs.dll
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\AlgoritmosCs\obj\Debug\net8.0\AlgoritmosCs.pdb
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\AlgoritmosCs\obj\Debug\net8.0\AlgoritmosCs.genruntimeconfig.cache
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\AlgoritmosCs\obj\Debug\net8.0\ref\AlgoritmosCs.dll

@@ -3,9 +3,8 @@
 namespace Algoritmo{
     public class Program(){
         public static void Main(){
-            string Teste = "Abaco";
-
-            Console.WriteLine((Teste));
+            Algoritmos.RegressivaRecursiva(10);
+            
         }
     }
 }
