@@ -23,7 +23,8 @@ namespace EditorHtml {
             } while (Console.ReadKey().Key != ConsoleKey.Escape);
 
             Console.WriteLine("-----------");
-            Console.WriteLine(" Deseja salvar o arquivo?");
+            Console.WriteLine(" Deseja salvar o arquivo? (S/N)");
+            Viewer.Show(file.ToString());
         }
     }
 }

@@ -69,10 +69,10 @@ namespace EditorHtml {
 
                 case 1: Editor.Show(); break;
                 case 2: Console.WriteLine("View"); break;
-                case 0: {
+                case 0: 
+                {
                     Console.Clear();
-                    Environment.Exit(0);
-                    break;
+                    Environment.Exit(0); break;
                 }
                 default: Show(); break;
             }
