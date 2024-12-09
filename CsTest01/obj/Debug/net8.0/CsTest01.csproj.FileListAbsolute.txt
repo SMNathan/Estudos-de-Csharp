@@ -1,0 +1,15 @@
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\CsTest01\bin\Debug\net8.0\CsTest01.exe
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\CsTest01\bin\Debug\net8.0\CsTest01.deps.json
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\CsTest01\bin\Debug\net8.0\CsTest01.runtimeconfig.json
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\CsTest01\bin\Debug\net8.0\CsTest01.dll
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\CsTest01\bin\Debug\net8.0\CsTest01.pdb
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\CsTest01\obj\Debug\net8.0\CsTest01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\CsTest01\obj\Debug\net8.0\CsTest01.AssemblyInfoInputs.cache
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\CsTest01\obj\Debug\net8.0\CsTest01.AssemblyInfo.cs
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\CsTest01\obj\Debug\net8.0\CsTest01.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\CsTest01\obj\Debug\net8.0\CsTest01.sourcelink.json
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\CsTest01\obj\Debug\net8.0\CsTest01.dll
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\CsTest01\obj\Debug\net8.0\refint\CsTest01.dll
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\CsTest01\obj\Debug\net8.0\CsTest01.pdb
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\CsTest01\obj\Debug\net8.0\CsTest01.genruntimeconfig.cache
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\CsTest01\obj\Debug\net8.0\ref\CsTest01.dll

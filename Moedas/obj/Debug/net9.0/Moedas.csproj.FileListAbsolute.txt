@@ -1,0 +1,15 @@
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\Moedas\bin\Debug\net9.0\Moedas.exe
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\Moedas\bin\Debug\net9.0\Moedas.deps.json
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\Moedas\bin\Debug\net9.0\Moedas.runtimeconfig.json
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\Moedas\bin\Debug\net9.0\Moedas.dll
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\Moedas\bin\Debug\net9.0\Moedas.pdb
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\Moedas\obj\Debug\net9.0\Moedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\Moedas\obj\Debug\net9.0\Moedas.AssemblyInfoInputs.cache
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\Moedas\obj\Debug\net9.0\Moedas.AssemblyInfo.cs
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\Moedas\obj\Debug\net9.0\Moedas.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\Moedas\obj\Debug\net9.0\Moedas.sourcelink.json
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\Moedas\obj\Debug\net9.0\Moedas.dll
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\Moedas\obj\Debug\net9.0\refint\Moedas.dll
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\Moedas\obj\Debug\net9.0\Moedas.pdb
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\Moedas\obj\Debug\net9.0\Moedas.genruntimeconfig.cache
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\Moedas\obj\Debug\net9.0\ref\Moedas.dll
