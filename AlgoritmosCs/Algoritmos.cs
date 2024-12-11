@@ -72,6 +72,7 @@ namespace Algoritmo {
         }
 
         public static int MaiorNoArrayRecursivo(int[] array, int indiceInicial, int indiceFinal) {
+            
             if (indiceInicial == indiceFinal) {
                 return array[indiceInicial];
             }
@@ -82,6 +83,19 @@ namespace Algoritmo {
             int maiorDireita = MaiorNoArrayRecursivo(array, meio + 1, indiceFinal);
 
             return Math.Max(maiorEsquerda, maiorDireita);
+        }
+        
+        public static int[] QuickSort(int[] array) {
+            if (array.Length < 2) {
+                return array;
+            }
+
+            int pivo = array[0];
+            
+            var menores = array.Skip(1).Where(x => x <= pivo).ToArray();
+            var maiores = array.Skip(1).Where(x => x > pivo).ToArray();
+
+            return QuickSort(menores).Concat(new int[] {pivo}).Concat(QuickSort(maiores)).ToArray();
         }
     }
 }
