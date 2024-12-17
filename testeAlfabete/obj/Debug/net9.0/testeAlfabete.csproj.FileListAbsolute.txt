@@ -1,0 +1,15 @@
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\testeAlfabete\bin\Debug\net9.0\testeAlfabete.exe
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\testeAlfabete\bin\Debug\net9.0\testeAlfabete.deps.json
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\testeAlfabete\bin\Debug\net9.0\testeAlfabete.runtimeconfig.json
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\testeAlfabete\bin\Debug\net9.0\testeAlfabete.dll
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\testeAlfabete\bin\Debug\net9.0\testeAlfabete.pdb
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\testeAlfabete\obj\Debug\net9.0\testeAlfabete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\testeAlfabete\obj\Debug\net9.0\testeAlfabete.AssemblyInfoInputs.cache
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\testeAlfabete\obj\Debug\net9.0\testeAlfabete.AssemblyInfo.cs
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\testeAlfabete\obj\Debug\net9.0\testeAlfabete.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\testeAlfabete\obj\Debug\net9.0\testeAlfabete.sourcelink.json
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\testeAlfabete\obj\Debug\net9.0\testeAlfabete.dll
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\testeAlfabete\obj\Debug\net9.0\refint\testeAlfabete.dll
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\testeAlfabete\obj\Debug\net9.0\testeAlfabete.pdb
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\testeAlfabete\obj\Debug\net9.0\testeAlfabete.genruntimeconfig.cache
+C:\Users\natha\OneDrive\Documentos\Estudos\Csharp\Estudos-Csharp\testeAlfabete\obj\Debug\net9.0\ref\testeAlfabete.dll
