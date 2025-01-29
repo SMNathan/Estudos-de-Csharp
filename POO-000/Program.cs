@@ -1,4 +1,5 @@
 ﻿using Balta.ContentContext;
+using Balta.ContentContext.Enums;
 
 namespace Balta {
 
@@ -25,6 +26,11 @@ namespace Balta {
             var courseOOP = new Course("Fundamentos OOP", "fundamentos-oop");
             var courseCsharp = new Course("Fundamentos C#", "fundamentos-csharp");
             var courseMAUI = new Course("Fundamentos MAUI", "fundamentos-maui");
+
+            courseCsharp.Level = EContentLevel.Iniciante;
+            courseOOP.Level = EContentLevel.Fundamental;
+            courseMAUI.Level = EContentLevel.Fundamental;
+
             courses.Add(courseOOP);
             courses.Add(courseCsharp);
             courses.Add(courseMAUI);
